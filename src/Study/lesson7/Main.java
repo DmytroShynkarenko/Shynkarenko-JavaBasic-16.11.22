@@ -24,5 +24,6 @@ public class Main {
         stepan.printAccountInfo();
         kirill.printAccountInfo();
 
+        System.out.println("Hello Git");
     }
 }
